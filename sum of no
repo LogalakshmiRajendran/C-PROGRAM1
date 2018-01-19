@@ -1,0 +1,10 @@
+#include<Stdio.h>
+void main()
+{
+int a,sum;
+scanf("%d",&a);
+for(i=0;i<=a;i++)
+{
+a=a+sum;
+}
+}
