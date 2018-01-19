@@ -1,0 +1,26 @@
+#include<Stdio.h>
+void main()
+{
+int a=4;
+int b=3;
+int c=2;
+if(a>b)
+{
+if(a>c)
+{
+printf("largest number is %d",a);
+}
+else
+{
+printf("largest number is%d",c);
+}
+}
+elseif(b>c)
+{
+printf("largest number %d",b);
+}
+else
+{
+printf("largest number %d",c);
+}
+}
