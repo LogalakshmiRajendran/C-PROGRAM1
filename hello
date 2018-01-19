@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+scanf("%d",&a);
+for(i=o;i<+a;i++)
+{
+printf("HELLO");
+}
+}
