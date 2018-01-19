@@ -1,8 +1,9 @@
 #include<stdio.h>
 void main()
 {
+int a;
 scanf("%d",&a);
-for(i=o;i<+a;i++)
+for(i=0;i<=a;i++)
 {
 printf("HELLO");
 }
