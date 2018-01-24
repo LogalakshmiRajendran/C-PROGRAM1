@@ -1,4 +1,4 @@
-#include<Stdio.h>
+#include<stdio.h>
 void main()
 {
 int n,m,i;
@@ -8,7 +8,5 @@ for(i=n;i<m;i++)
 {
 if(i%2==0)
 printf("%d",i);
-else
-printf(" ");
 }
 }
